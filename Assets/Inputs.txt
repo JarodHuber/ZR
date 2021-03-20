@@ -1,0 +1,14 @@
+﻿Right trigger 3 and 10, touch is 14 all negative
+left trigger touch is 13, pull is 3 and 9, 3 positive 9 negative
+right side grip 12 negative button 5
+left side grip 11 negative button 4
+right thumbstick x axis 4 no need to invert y axis 5 needs to be inverted
+left thumbstick 1 (x) and 2(y), y needs to be inverted
+left hand thumb down 15 and 16
+no right hand thumb down
+x button is 2
+y button is 3
+a button is 0
+b button is 1
+right stick click is button 9, left stick click is 8
+left oculus button is button 6
